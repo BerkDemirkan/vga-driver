@@ -1,0 +1,53 @@
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+
+|       Launch Clock       |      Capture Clock       |                                                 Pin                                                      |
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                       image_generator/s_mem_addr_reg[5]/D|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                       image_generator/s_mem_addr_reg[4]/D|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                       image_generator/s_mem_addr_reg[7]/D|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                       image_generator/s_mem_addr_reg[6]/D|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                       image_generator/s_mem_addr_reg[2]/D|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                       image_generator/s_mem_addr_reg[9]/D|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                      image_generator/s_mem_addr_reg[13]/D|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                      image_generator/s_mem_addr_reg[17]/D|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                       image_generator/s_mem_addr_reg[8]/D|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                      image_generator/s_mem_addr_reg[12]/D|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                      image_generator/s_mem_addr_reg[16]/D|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                      image_generator/s_mem_addr_reg[10]/D|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                      image_generator/s_mem_addr_reg[14]/D|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                      image_generator/s_mem_addr_reg[11]/D|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                      image_generator/s_mem_addr_reg[15]/D|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                       image_generator/s_mem_addr_reg[3]/D|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                       image_generator/s_mem_addr_reg[1]/D|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                       image_generator/s_mem_addr_reg[0]/D|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                       image_generator/s_col_data_reg[2]/R|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                       image_generator/s_col_data_reg[3]/R|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                       image_generator/s_col_data_reg[5]/R|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                       image_generator/s_col_data_reg[4]/R|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                       image_generator/s_col_data_reg[6]/R|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                       image_generator/s_col_data_reg[7]/R|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                       image_generator/s_col_data_reg[8]/R|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                       image_generator/s_col_data_reg[9]/R|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                      image_generator/s_col_data_reg[11]/R|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                       image_generator/s_col_data_reg[1]/R|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                       image_generator/s_col_data_reg[0]/R|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                      image_generator/s_col_data_reg[10]/R|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |image_generator/image_memory/U0/inst_blk_mem_gen/gnbram.gnativebmg.native_blk_mem_gen/valid.cstr/ramloop[0].ram.r/prim_init.ram/image_generator/image_memory/U0/inst_blk_mem_gen/gnbram.gnativebmg.native_blk_mem_gen/valid.cstr/ramloop[0].ram.r/prim_init.ram/DEVICE_7SERIES.NO_BMM_INFO.SP.CASCADED_PRIM36.ram_B_cooolgate_en_gate_1_cooolDelFlop/D|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                      image_generator/s_mem_addr_reg[0]/CE|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                     image_generator/s_mem_addr_reg[10]/CE|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                     image_generator/s_mem_addr_reg[11]/CE|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                      image_generator/s_mem_addr_reg[8]/CE|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                      image_generator/s_mem_addr_reg[9]/CE|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                      image_generator/s_mem_addr_reg[4]/CE|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                      image_generator/s_mem_addr_reg[6]/CE|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                      image_generator/s_mem_addr_reg[7]/CE|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                      image_generator/s_mem_addr_reg[5]/CE|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                     image_generator/s_mem_addr_reg[16]/CE|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                     image_generator/s_mem_addr_reg[17]/CE|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                     image_generator/s_mem_addr_reg[15]/CE|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                     image_generator/s_mem_addr_reg[12]/CE|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                     image_generator/s_mem_addr_reg[13]/CE|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                     image_generator/s_mem_addr_reg[14]/CE|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                      image_generator/s_mem_addr_reg[2]/CE|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                      image_generator/s_mem_addr_reg[1]/CE|
+|  o_pixel_clock_clk_wiz_0 |              sys_clk_pin |                                                                      image_generator/s_mem_addr_reg[3]/CE|
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+
