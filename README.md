@@ -1,0 +1,1 @@
+A simple VGA driver for the BASYS3 development board. It was developed during the summer of 2019 as a personal project. Capable of displaying a couple of images pre-processed and pre-written into the FPGA ROM block. Can change the displayed image using the on-board buttons or by using a pre-determined time interval as a slideshow.
